@@ -1,0 +1,4 @@
+.env
+*.log
+jarvis.mp3
+.DS_Store
